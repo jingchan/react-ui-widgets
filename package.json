@@ -7,7 +7,10 @@
     "envify": "^1.2.1",
     "react": "^0.10.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "browserify": "^4.1.11",
+    "reactify": "^0.13.1"
+  },
   "scripts": {
     "test": "mocha"
   },
