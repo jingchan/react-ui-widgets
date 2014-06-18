@@ -1,0 +1,24 @@
+{
+  "name": "react-ui-widgets",
+  "version": "0.0.0",
+  "description": "Random React components and addons",
+  "main": "index.js",
+  "dependencies": {
+    "envify": "^1.2.1",
+    "react": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jingchan/react-ui-widgets"
+  },
+  "author": "Jing Chan",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/jingchan/react-ui-widgets/issues"
+  },
+  "homepage": "https://github.com/jingchan/react-ui-widgets"
+}
