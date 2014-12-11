@@ -1,6 +1,6 @@
 {
   "name": "react-ui-widgets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Random React components and addons",
   "main": "index.js",
   "dependencies": {
